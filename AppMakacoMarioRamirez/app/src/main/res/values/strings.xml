@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AppMakacoMarioRamirez</string>
+    <string name="main_Info">Número de telefono = 673924812 \n Información de consumo actual \n
+                             Velocidad de internet contratada = 50MB\n
+                             Minutos contratados = 30minutos</string>
+    <string name="mac">Makaco</string>
+    <string name="cmb">100MB</string>
+    <string name="ccmb">500MB</string>
+
+    <string name="tms">30Mins</string>
+    <string name="cms">100Mins</string>
+
+    <string name="confirmar">Confimar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="vueltaatras">Vuelta atras</string>
+    <string name="aceptar">Aceptar</string>
+
+    <string name="confirmacion">Confirmacion</string>
+    <string name="llamadas">LLamadas</string>
+    <string name="internet">Internet</string>
+    <string name="comprarb">Comprar bonos extra</string>
+    <string name="metodo">Cambiar metodo de pago</string>
+    <string name="pago">Aceptar y procesar metodo de pago</string>
+
+
+
+</resources>
